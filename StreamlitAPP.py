@@ -12,7 +12,7 @@ from src.mcqGenerator.logger import logging
 
 
 #loading json file
-with open('C:\Users\sarga\MCQGenerator\Response.json', 'r') as file:
+with open('Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
     
 # stramlit for creating the web application
