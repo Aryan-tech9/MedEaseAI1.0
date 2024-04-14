@@ -1,0 +1,1 @@
+[2024-04-13 11:41:54,767] 1026 httpx - INFO - HTTP Request: POST https://api.cohere.ai/v1/chat "HTTP/1.1 200 OK"
